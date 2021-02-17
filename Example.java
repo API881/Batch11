@@ -4,5 +4,7 @@ public class Example {
 
      
         System.out.println("I am One and From GitHub Example");
+        
+        System.out.println("I am Two and From GitHub Example");
     }
 }
